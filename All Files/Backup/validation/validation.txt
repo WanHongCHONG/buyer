@@ -1,0 +1,26 @@
+  myAlertDialog.setPositiveButton("UPDATE", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+
+                if (editText_homeAddress!=null){
+                    Toast.makeText(Home.this, "Failed to Update...Please Fill In Your Delivery Address ! ", Toast.LENGTH_SHORT).show();
+                }
+                else{
+                dialog.dismiss();
+                Common.currentUser.setHomeAddress(editText_homeAddress.getText().toString());
+                table_user.child(Common.currentUser.getPhone()).setValue(Common.currentUser).addOnCompleteListener(new OnCompleteListener<Void>() {
+                    @Override
+                    public void onComplete(@NonNull Task<Void> task) {
+                        Toast.makeText(Home.this, "Home Address is Updated", Toast.LENGTH_LONG).show();
+                    }
+                });
+            }}
+        });
+
+
+
+
+
+
+
+'com.mobsandgeeks:android-saripaar:2.0.3'

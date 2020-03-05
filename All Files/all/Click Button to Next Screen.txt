@@ -1,0 +1,7 @@
+.xml assign: 
+android:onClick="red"
+
+.java assign: 
+   public void red(View v){
+        startActivity(new Intent(CurrentActivity.this, NextActivity.class));
+    }

@@ -1,0 +1,431 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "http://www.cubesnjuliennes.com/wp-content/uploads/2016/06/Chicken-Spring-Roll-2-1.jpg",
+      "Name" : "Finger Foods"
+    },
+    "02" : {
+      "Image" : "https://images.pexels.com/photos/262947/pexels-photo-262947.jpeg",
+      "Name" : "Soup"
+    },
+    "03" : {
+      "Image" : "https://images.pexels.com/photos/1268551/pexels-photo-1268551.jpeg",
+      "Name" : "Main Course"
+    },
+    "04" : {
+      "Image" : "https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg",
+      "Name" : "Desserts"
+    },
+    "05" : {
+      "Image" : "https://images.pexels.com/photos/1282276/pexels-photo-1282276.jpeg",
+      "Name" : "Beverages"
+    },
+    "06" : {
+      "Image" : "https://images.pexels.com/photos/724216/pexels-photo-724216.jpeg",
+      "Name" : "Pizza"
+    },
+    "07" : {
+      "Image" : "https://images.pexels.com/photos/416594/pexels-photo-416594.jpeg",
+      "Name" : "Burgers"
+    },
+    "08" : {
+      "Image" : "http://carnivalmunchies.com/wp-content/uploads/2018/07/club-sandwich-600x435.jpg",
+      "Name" : "Sandwich"
+    },
+    "09" : {
+      "Image" : "https://static01.nyt.com/images/2016/08/15/dining/15COOKING-PASTA/15COOKING-PASTA-threeByTwoMediumAt2X-v2.jpg",
+      "Name" : "Pastas"
+    }
+  },
+  "Food" : {
+    "01" : {
+      "Discount" : "10",
+      "Image" : "https://images-gmi-pmc.edge-generalmills.com/79c6ac0a-67cc-4556-8d4c-3019280b52bc.jpg",
+      "MenuId" : "01",
+      "Name" : "Spring Rolls",
+      "Price" : "100"
+    },
+    "02" : {
+      "Discount" : "20",
+      "Image" : "http://www.giamarescotti.com/wp-content/uploads/2012/12/Hotstar0807.jpg",
+      "MenuId" : "01",
+      "Name" : "Chicken Wings",
+      "Price" : "150"
+    },
+    "03" : {
+      "Discount" : "10",
+      "Image" : "http://www.pannondoktor.hu/wp-content/uploads/2017/11/halrudacska-1920x1080-702x336.jpg",
+      "MenuId" : "01",
+      "Name" : "Fish Fingers",
+      "Price" : "180"
+    },
+    "04" : {
+      "Discount" : "10",
+      "Image" : "http://www.cubesnjuliennes.com/wp-content/uploads/2015/06/DS2_7947-opt670.jpg",
+      "MenuId" : "01",
+      "Name" : "Chicken Nuggets",
+      "Price" : "100"
+    },
+    "05" : {
+      "Discount" : "0",
+      "Image" : "http://www.annabellebreakey.com/wp-content/uploads/2015/02/abreakey-foodphotographer-chickensouppot.jpg",
+      "MenuId" : "02",
+      "Name" : "Chicken Soup",
+      "Price" : "100"
+    },
+    "06" : {
+      "Discount" : "0",
+      "Image" : "https://i.pinimg.com/originals/b4/12/26/b4122691c24514108e6fdea1bc8ca79f.jpg",
+      "MenuId" : "02",
+      "Name" : "Tomato Soup",
+      "Price" : "50"
+    },
+    "07" : {
+      "Discount" : "0",
+      "Image" : "https://i.pinimg.com/564x/5d/5a/37/5d5a3764bfd8ee501aa304e4ef05e8e7.jpg",
+      "MenuId" : "02",
+      "Name" : "Hot and Sour Soup",
+      "Price" : "70"
+    },
+    "08" : {
+      "Discount" : "0",
+      "Image" : "https://realfood.tesco.com/media/images/TESCO-DT2-EP-4-LARGE-HERO-CHICKEN-NOODLE-SOUP-7e0403d1-a443-4158-adfd-16f8eebc385a-0-1400x919.jpg",
+      "MenuId" : "02",
+      "Name" : "Chicken Noodle Soup",
+      "Price" : "180"
+    },
+    "09" : {
+      "Discount" : "0",
+      "Image" : "https://images.media-allrecipes.com/images/55381.jpg?width=420&height=237",
+      "MenuId" : "03",
+      "Name" : "Alaska Salmon Bake with Pecan Crunch Coating",
+      "Price" : "250"
+    },
+    "010" : {
+      "Discount" : "0",
+      "Image" : "https://images.media-allrecipes.com/images/74888.jpg?width=420&height=237",
+      "MenuId" : "03",
+      "Name" : "Chicken Marsala",
+      "Price" : "220"
+    },
+    "011" : {
+      "Discount" : "0",
+      "Image" : "https://img.delicious.com.au/2x2oS2rW/h506-w759-cfill/del/2015/10/roast-pork-with-apple-and-apricot-stuffing-19303-2.jpg",
+      "MenuId" : "03",
+      "Name" : "ROAST PORK WITH APPLE AND APRICOT STUFFING AND QUINCE-MUSTARD GRAVY",
+      "Price" : "270"
+    },
+    "012" : {
+      "Discount" : "0",
+      "Image" : "https://images.meredith.com/content/dam/bhg/Images/recipe/34/R115488.jpg.rendition.smallest.ss.jpg",
+      "MenuId" : "03",
+      "Name" : "Chicken and Asparagus Skillet Supper",
+      "Price" : "180"
+    },
+    "013" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/239581/pexels-photo-239581.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "MenuId" : "04",
+      "Name" : "Macrons",
+      "Price" : "70"
+    },
+    "014" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/90604/pexels-photo-90604.png?auto=compress&cs=tinysrgb&h=350",
+      "MenuId" : "04",
+      "Name" : "Blue Berry Mufins",
+      "Price" : "60"
+    },
+    "015" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "MenuId" : "04",
+      "Name" : "Strawberry Cheese Cake",
+      "Price" : "180"
+    },
+    "016" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/954199/pexels-photo-954199.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "MenuId" : "04",
+      "Name" : "Chocolate Cheese Cake",
+      "Price" : "180"
+    },
+    "017" : {
+      "Discount" : "0",
+      "Image" : "https://c.pxhere.com/photos/88/3e/cake_food_foodporn_dessert_sweet_delicious_sugar_pastry-1200884.jpg!d",
+      "MenuId" : "04",
+      "Name" : "Chocolate Brownie",
+      "Price" : "180"
+    },
+    "018" : {
+      "Discount" : "0",
+      "Image" : "https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule_v.jpg",
+      "MenuId" : "05",
+      "Name" : "Miami Mule",
+      "Price" : "80"
+    },
+    "019" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/1265910/pexels-photo-1265910.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "MenuId" : "05",
+      "Name" : "Lime Water",
+      "Price" : "100"
+    },
+    "020" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/1157862/pexels-photo-1157862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "MenuId" : "05",
+      "Name" : "Strawberry Smoothie",
+      "Price" : "100"
+    },
+    "021" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/1128973/pexels-photo-1128973.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "MenuId" : "05",
+      "Name" : "Kale Smoothie",
+      "Price" : "180"
+    },
+    "022" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/158053/fresh-orange-juice-squeezed-refreshing-citrus-158053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "MenuId" : "05",
+      "Name" : "Orange Juice",
+      "Price" : "100"
+    },
+    "023" : {
+      "Discount" : "0",
+      "Image" : "https://images.pexels.com/photos/312420/pexels-photo-312420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "MenuId" : "05",
+      "Name" : "Cappuccino Coffee",
+      "Price" : "100"
+    },
+    "024" : {
+      "Discount" : "0",
+      "Image" : "https://as1.ftcdn.net/jpg/01/44/95/36/500_F_144953635_UVXJVePPq5fvRvqGVdAbE5d77YsbMpkh.jpg",
+      "MenuId" : "06",
+      "Name" : "Margarita",
+      "Price" : "150"
+    },
+    "025" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/01/39/82/89/500_F_139828910_8yYI45TFrF4oEJ2ZgfOfP3f2daYyqn1p.jpg",
+      "MenuId" : "06",
+      "Name" : "Mushroom",
+      "Price" : "170"
+    },
+    "026" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/00/93/67/37/500_F_93673776_cJj1YCnelgSG7gbdxGvB0bAfZvTkpuKI.jpg",
+      "MenuId" : "06",
+      "Name" : "Pepperoni",
+      "Price" : "180"
+    },
+    "027" : {
+      "Discount" : "0",
+      "Image" : "https://as1.ftcdn.net/jpg/00/26/22/50/500_F_26225075_kCvAkfnJKq7lYYpwx8ZFz0hiNGbA6pMh.jpg",
+      "MenuId" : "06",
+      "Name" : "Chicken",
+      "Price" : "100"
+    },
+    "028" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/00/76/83/21/500_F_76832189_IHfFAKacyBO6JYNELJ7UgitbtF0vhz5p.jpg",
+      "MenuId" : "08",
+      "Name" : "Grilled Cheese",
+      "Price" : "100"
+    },
+    "029" : {
+      "Discount" : "0",
+      "Image" : "https://t3.ftcdn.net/jpg/00/40/21/88/240_F_40218837_0LY6XLTjotIr7leh3XiMdT7VwoJyQzQH.jpg",
+      "MenuId" : "08",
+      "Name" : "Ham",
+      "Price" : "170"
+    },
+    "030" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/00/68/84/45/500_F_68844566_vhdL2UtbgZPuQ93mlzBASlpJMZ6JwX5h.jpg",
+      "MenuId" : "08",
+      "Name" : "Turkey and Bacon",
+      "Price" : "180"
+    },
+    "031" : {
+      "Discount" : "0",
+      "Image" : "https://as1.ftcdn.net/jpg/00/16/44/16/500_F_16441654_K3NdyFfz3h5dek5hjLa02fWpMersEJlP.jpg",
+      "MenuId" : "08",
+      "Name" : "Peanut Butter And Jelly",
+      "Price" : "100"
+    },
+    "032" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/01/41/16/55/500_F_141165547_pxnWXbc3lrdLMw9R9OO4DXTUN4yNXwDC.jpg",
+      "MenuId" : "07",
+      "Name" : "Beef",
+      "Price" : "100"
+    },
+    "033" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/01/06/56/77/500_F_106567768_HBWFjV9cxKRlnuOvBcbeS8zLZilqfdhn.jpg",
+      "MenuId" : "07",
+      "Name" : "Bacon And Beef",
+      "Price" : "170"
+    },
+    "034" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/01/60/57/35/500_F_160573548_Q73Cc2XVBmRPpyD60fbgdZrSe7KxA7BR.jpg",
+      "MenuId" : "07",
+      "Name" : "Chicken",
+      "Price" : "100"
+    },
+    "035" : {
+      "Discount" : "0",
+      "Image" : "https://t3.ftcdn.net/jpg/01/39/89/98/240_F_139899805_HlEhehA6jeu3SAzPfoqYgNDbf46oXcYe.jpg",
+      "MenuId" : "07",
+      "Name" : "Beef Burger With Fries",
+      "Price" : "190"
+    },
+    "036" : {
+      "Discount" : "0",
+      "Image" : "https://as1.ftcdn.net/jpg/02/09/67/30/500_F_209673063_u4YSDU6Ch5cU1ZLPovb6wbHHmBBEJoU3.jpg",
+      "MenuId" : "09",
+      "Name" : "Spaghetti",
+      "Price" : "100"
+    },
+    "037" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/00/80/96/67/500_F_80966789_EXdANt8bonghFL1a672EjlLsPL61tOky.jpg",
+      "MenuId" : "09",
+      "Name" : "Tagliatelle pasta with spinach and green peas pesto",
+      "Price" : "170"
+    },
+    "038" : {
+      "Discount" : "0",
+      "Image" : "https://as2.ftcdn.net/jpg/01/02/16/43/500_F_102164322_oh0I2FCnhGQkzRHYc9Co4lXclUavoQ2T.jpg",
+      "MenuId" : "09",
+      "Name" : "Penne pasta in tomato sauce",
+      "Price" : "100"
+    },
+    "039" : {
+      "Discount" : "0",
+      "Image" : "https://as1.ftcdn.net/jpg/00/27/57/98/500_F_27579824_zuvbsFOMTMt8CUlIZLnfKlKujvhAvfbl.jpg",
+      "MenuId" : "09",
+      "Name" : "Fettucini alfredo with chicken",
+      "Price" : "190"
+    },
+    "040" : {
+      "Discount" : "0",
+      "Image" : "https://as1.ftcdn.net/jpg/01/09/36/28/500_F_109362819_xQOWZnMKazTy9PMsYRcBH3CUtgZEmG2Z.jpg",
+      "MenuId" : "09",
+      "Name" : "Creamy pasta with chicken and leeks",
+      "Price" : "190"
+    }
+  },
+  "Requests" : {
+    "1537140515909" : {
+      "address" : "Dehradun",
+      "foods" : [ {
+        "discount" : "10",
+        "price" : "100",
+        "productId" : "01",
+        "productName" : "Spring Rolls",
+        "quantity" : "4"
+      }, {
+        "discount" : "20",
+        "price" : "150",
+        "productId" : "02",
+        "productName" : "Chicken Wings",
+        "quantity" : "5"
+      } ],
+      "name" : "Ethan",
+      "phone" : "0988112456",
+      "status" : "0",
+      "total" : "$1,150.00"
+    },
+    "1537140685830" : {
+      "address" : "Navi Mumbai",
+      "foods" : [ {
+        "discount" : "10",
+        "price" : "100",
+        "productId" : "01",
+        "productName" : "Spring Rolls",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "50",
+        "productId" : "06",
+        "productName" : "Tomato Soup",
+        "quantity" : "5"
+      } ],
+      "name" : "Ethan",
+      "phone" : "0988112456",
+      "status" : "0",
+      "total" : "$350.00"
+    },
+    "1537303318222" : {
+      "address" : "Elton John street",
+      "foods" : [ {
+        "discount" : "10",
+        "price" : "100",
+        "productId" : "01",
+        "productName" : "Spring Rolls",
+        "quantity" : "4"
+      }, {
+        "discount" : "20",
+        "price" : "150",
+        "productId" : "02",
+        "productName" : "Chicken Wings",
+        "quantity" : "3"
+      } ],
+      "name" : "Ethan",
+      "phone" : "0988112456",
+      "status" : "0",
+      "total" : "$850.00"
+    }
+  },
+  "User" : {
+    "0988112456" : {
+      "IsStaff" : "false",
+      "Name" : "Ethan",
+      "Password" : "IMF"
+    },
+    "0988112457" : {
+	   "IsStaff" : "false",
+      "Name" : "Jessica",
+      "Password" : "MRVL"
+    },
+    "0988112459" : {
+      "IsStaff" : "false",
+      "name" : "Jhon Doe",
+      "password" : "PUBG"
+    },
+    "09881852321" : {
+      "IsStaff" : "false",
+      "name" : "Ethan Rand",
+      "password" : "IMF"
+    },
+    "7852369149" : {
+      "IsStaff" : "false",
+      "name" : "Elton John",
+      "password" : "Ima"
+    },
+     "0988123344" : {
+	  "IsStaff" : "false",
+      "Name" : "Eddy Dn",
+      "Password" : "1234"
+    },
+    "000099" : {
+      "IsStaff" : "true",
+      "name" : "Asta",
+      "password" : "Clover"
+    },
+    "000100" : {
+      "IsStaff" : "true",
+      "name" : "Aang",
+      "password" : "Firebending"
+    },
+    "000101" : {
+      "IsStaff" : "true",
+      "name" : "Kurosaki",
+      "password" : "Bleach"
+    }
+  }
+}
