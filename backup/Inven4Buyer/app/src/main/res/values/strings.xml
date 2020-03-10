@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">322</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="text_forgetPassword"><u>Forget Password ?</u></string>
+    <string name="facebook_app_id">2277501452345477</string>
+    <string name="facebook_login_protocol_name">fb2277501452345477</string>
+    <string name="account_kit_client_token">b2d595a94d3f09601aedc763e0132ffe</string>
+
+</resources>
